@@ -1,0 +1,18 @@
+{
+  "facebook/react": {
+    "path": "D:\\git\\facebook\\react",
+    "branch": "main",
+    "url": "https://github.com/facebook/react.git",
+    "cloned_at": "2026-01-15T08:30:00+00:00",
+    "last_access": "2026-02-06T03:37:19+00:00",
+    "access_count": 12
+  },
+  "pallets/flask": {
+    "path": "D:\\git\\pallets\\flask",
+    "branch": null,
+    "url": "https://github.com/pallets/flask.git",
+    "cloned_at": "2026-01-20T14:00:00+00:00",
+    "last_access": "2026-01-25T09:15:00+00:00",
+    "access_count": 3
+  }
+}
